@@ -344,8 +344,10 @@ Make sure you have added your SQL challenge detailed in Week 4 Exercies to the b
 1 . Complete these [GitHub Exercises](https://docs.google.com/document/d/1CWRBnj2pL_RIDAdgzoiZjm_fWHf_yznotVnGvG21lyk/edit?usp=sharing)
 <br>2 . Add a file called yourname_sqlchallenges.md to the [Fife College blue](https://github.com/Fife-College/blue) private repository with an SQL challenge for your fellow students. Make sure you have a solution to the challenge and if the challenge requires any other knowledge other than that presented in class, you must indicate what else is required in your challenge.
 <br>3 . Create a directory on Ygritte called "sqlchallenges" and place the answer to your challenge in this directory in a file named answer.sql. Attempt some of the challenges posed by other students and put your answers in the sqlchallenges directory in the format nameofchallenger_answer.sql. 
+-->
+# Week 3 & 4
 
-# Week 3
+<br> Preamble . [SQL Tutorial](http://www.w3schools.com/sql/)
 
 <br>1 . Using MySql on Ygritte interactively:
 ```
@@ -392,7 +394,7 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br>12 . Bernie contributed 10% of her  salary to her pension. How much per annum did she pay into her pension for each of her  salaries? Create a query to output the pension contributions for each of her salaries.
 <br>12 . Create an alias for the pension column in Q5 called “Pension”.
 <br>12 . How much was Bernie paid in the month of October 1997 ( salary / 12 )?
--->
+
 
 #Week 1 & 2 
 <br>1 . [Unit Descriptor](http://www.sqa.org.uk/files/hn/H16W35.pdf)
@@ -403,7 +405,6 @@ Create a directory on Ygritte called "sqlexercises" and create a file in that di
 <br> 6 . [Connecting To Ygritte](https://docs.google.com/document/d/1wV6XGhOPlpwCMElZAqlH83YYXo_PpdNNdVMN6Toh3mw/pub)
 <br> 7 . [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 <br> 8 . [The Art Of The Command Line](https://github.com/jlevy/the-art-of-command-line)
-<br> 9 . [SQL Tutorial](http://www.w3schools.com/sql/)
 <br> 10 . You can switch off messages from Alec and Jack by using the following command:
 ```
 mesg n
@@ -418,8 +419,9 @@ mesg y
 ```
 passwd
 ```
+<!--
 <br>2 . In groups - study the [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html) and identify what information you can derive from the database e.g. the oldest employee etc. Document you findings on Ygritte in a file called employees.txt. You can use gedit to edit the file:
 ```
 gedit employees.txt
 ```
-
+-->
