@@ -334,6 +334,10 @@ Make sure you have added your SQL challenge detailed in Week 4 Exercies to the b
 
 # Week 4
 
+## Linux Commands
+
+[Linux commands reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
+
 <br>2 . Using MySql using a script
 
 ```
