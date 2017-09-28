@@ -380,7 +380,7 @@ you@ygritte:~$ mysql -t -u student employees < test.sql
 ```
 you@ygritte:~$ mysql -u student employees
 mysql> select * from employees limit 10;
-``
+```
 
 <br>4 . [Select](http://www.w3schools.com/sql/sql_select.asp)
 <br>5 . [Where](http://www.w3schools.com/sql/sql_where.asp)
