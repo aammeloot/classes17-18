@@ -306,7 +306,34 @@ mysql -t -u student employees < /home/share/rdbms/wk3answers.sql
 <br>3 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
 <br>4 . [Inner Join Alternative](https://gist.github.com/GedMullen/da443d8e6956046c02b2)
 
+-->
+
+# Week 6 - 7
+
+## Github
+
+1 . [GitHub Is Your New CV](http://code.dblock.org/2011/07/14/github-is-your-new-resume.html)
+<br>2 . [GitHub Home](https://github.com/)
+<br>3 . [Example Profile](https://github.com/marijnh)
+<br>4 . [GitHub CV Generator](http://resume.github.io/)
+<br>5 . [Mineplex Project Contributions](https://drive.google.com/file/d/0B7l9n3yk5ob0b0JCWXU5ZjY4dUk/view?ts=58170cea)
 ##Exercises
+
+1 . Complete these [GitHub Exercises](https://docs.google.com/document/d/1ef9MfJc4KFWECrF-YimnZNawzr--TptdNaoci7gvjBM/edit?usp=sharing)
+<br>2 . Add a file called yourname_sqlchallenges.md to the [Fife College blue](https://github.com/RDBMS17-18AA/Blue) private repository with an SQL challenge for your fellow students. Make sure you have a solution to the challenge and if the challenge requires any other knowledge other than that presented in class, you must indicate what else is required in your challenge.
+<br>3 . Create a directory on Ygritte called "sqlchallenges" and place the answer to your challenge in this directory in a file named answer.sql. Attempt some of the challenges posed by other students and put your answers in the sqlchallenges directory in the format nameofchallenger_answer.sql.
+
+## Using MySql using a script
+
+```
+mkdir sqlexercises
+cd sqlexercises
+gedit test.sql
+select * from employees limit 10;
+you@ygritte:~$ mysql -t -u student employees < test.sql
+```
+
+## Exercises
 Make sure you have added your SQL challenge detailed above to the blue repository. 
 
 <br>Create a "wk5.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
@@ -330,34 +357,9 @@ Make sure you have added your SQL challenge detailed above to the blue repositor
 <br>17 . Continue with solving the SQL challenges of your fellow students. 
 
 
--->
-
 # Week 5
 
-## Using MySql using a script
-
-```
-mkdir sqlexercises
-cd sqlexercises
-gedit test.sql
-select * from employees limit 10;
-you@ygritte:~$ mysql -t -u student employees < test.sql
-```
-
-## Github
-
-1 . [GitHub Is Your New CV](http://code.dblock.org/2011/07/14/github-is-your-new-resume.html)
-<br>2 . [GitHub Home](https://github.com/)
-<br>3 . [Example Profile](https://github.com/marijnh)
-<br>4 . [GitHub CV Generator](http://resume.github.io/)
-<br>5 . [Mineplex Project Contributions](https://drive.google.com/file/d/0B7l9n3yk5ob0b0JCWXU5ZjY4dUk/view?ts=58170cea)
-##Exercises
-
-1 . Complete these [GitHub Exercises](https://docs.google.com/document/d/1ef9MfJc4KFWECrF-YimnZNawzr--TptdNaoci7gvjBM/edit?usp=sharing)
-<br>2 . Add a file called yourname_sqlchallenges.md to the [Fife College blue](https://github.com/RDBMS17-18AA/Blue) private repository with an SQL challenge for your fellow students. Make sure you have a solution to the challenge and if the challenge requires any other knowledge other than that presented in class, you must indicate what else is required in your challenge.
-<br>3 . Create a directory on Ygritte called "sqlchallenges" and place the answer to your challenge in this directory in a file named answer.sql. Attempt some of the challenges posed by other students and put your answers in the sqlchallenges directory in the format nameofchallenger_answer.sql. 
-
-
+## Pre-holiday catch-up week
 
 # Week 4
 
