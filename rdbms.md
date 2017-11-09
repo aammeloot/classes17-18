@@ -300,12 +300,6 @@ mysql -t -u student employees < /home/share/rdbms/wk3answers.sql
 <br>4 . Are there any employees that have the same first/last name and DOB?
 <br>5 . Familiarise yourself with [Vim](http://www.vim.org/)
 
-## SQL Exercises
-1 . [Aliases](http://www.w3schools.com/sql/sql_alias.asp)
-<br>2 . [Dates](http://www.w3schools.com/sql/sql_dates.asp)
-<br>3 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
-<br>4 . [Inner Join Alternative](https://gist.github.com/GedMullen/da443d8e6956046c02b2)
-
 -->
 
 # Week 6 - 7 - 8
@@ -323,6 +317,8 @@ mysql -t -u student employees < /home/share/rdbms/wk3answers.sql
 <br>2 . Add a file called yourname_sqlchallenges.md to the [Fife College blue](https://github.com/RDBMS17-18AA/Blue) private repository with an SQL challenge for your fellow students. Make sure you have a solution to the challenge and if the challenge requires any other knowledge other than that presented in class, you must indicate what else is required in your challenge.
 <br>3 . Create a directory on Ygritte called "sqlchallenges" and place the answer to your challenge in this directory in a file named answer.sql. Attempt some of the challenges posed by other students and put your answers in the sqlchallenges directory in the format nameofchallenger_answer.sql.
 
+Make sure you have added your SQL challenge detailed above to the blue repository. 
+
 ## Using MySql using a script
 
 ```
@@ -333,8 +329,13 @@ select * from employees limit 10;
 you@ygritte:~$ mysql -t -u student employees < test.sql
 ```
 
+## SQL Exercises
+1 . [Aliases](http://www.w3schools.com/sql/sql_alias.asp)
+<br>2 . [Dates](http://www.w3schools.com/sql/sql_dates.asp)
+<br>3 . [Functions](http://www.w3schools.com/sql/sql_functions.asp)
+<br>4 . [Inner Join Alternative](https://gist.github.com/GedMullen/da443d8e6956046c02b2)
+
 ## Exercises
-Make sure you have added your SQL challenge detailed above to the blue repository. 
 
 <br>Create a "wk5.sql" file in your sqlexercies directory on Ygritte and write implement each of the following exercises using one SQL statement.
 
