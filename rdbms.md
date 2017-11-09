@@ -308,7 +308,7 @@ mysql -t -u student employees < /home/share/rdbms/wk3answers.sql
 
 -->
 
-# Week 6 - 7
+# Week 6 - 7 - 8
 
 ## Github
 
