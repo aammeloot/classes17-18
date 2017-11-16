@@ -197,9 +197,10 @@ SELECT * FROM employees LIMIT 10;
 <br>3 . Add select statements to wk10.sql to check that the data has been inserted correctly.
 <br>4 . Add update and delete statements.
 <br>5 . If you manage to complete the tasks above carry on with week 6 and 7 exercises.
- 
 
-# Week 9
+-->
+
+# Week 9 - 10 - 11
 
 1 . Week 5 Answers (All)
 ```
@@ -217,41 +218,7 @@ mysql -t -u student < /home/share/rdbms/wk5answers.sql
 <li>What is the history of the RDBMS?  
 </ul>
 
-# Week 8
-
-1 . [SQL Injection](http://www.w3schools.com/sql/sql_injection.asp)
-<br> 2 . [SQLi Attack](https://www.youtube.com/watch?v=ciNHn38EyRc)
-<br> 3 . [Damn Vulnerable Web App](http://www.dvwa.co.uk/)
-
-## Exercises
-
-<br>1 . Complete the [SQL Injection](http://www.w3schools.com/sql/sql_injection.asp) tutorial.
-<br>2 . Send me an email with the following [message](https://docs.google.com/document/d/1B-ztaNF94ToirsNu_SIeT7LGtaPnOG0EWJOU5xzPkbU/edit?usp=docslist_api).
-<br>3 . Copy DVWA to your home directory using the following commands:
-
-```
-mkdir webapps
-cp -r /home/share/dvwa/. webapps
-```
-You will need to change the database name in the following file (once you have copied it):
-````
-gedit webapps/DVWA-1.9/config/config.inc.php
-````
-<br> 4 . Run a PHP web server in the webapps directory:
-
-```
-cd 
-cd webapps/DVWA-1.9
-php -S localhost:8???
-```
-<br>5 . Point firefox to the following URL:
-```
-firefox http://localhost:8???/login.php
-```
-<br>6 . [SQL Injection Exercises](https://docs.google.com/document/d/19xmxzBD-6jzDeqOUDhtQ7Yt3bws0-YAZL3DfN2xZv9I/edit?usp=docslist_api)
-
-
-# Week 7
+# Week 
 
 1 . Week 5 Answers (Exercises 1-5)
 ```
@@ -280,19 +247,6 @@ Complete previous weeks exercises first. Create a file in your sqlexercises fold
 <br>8 . Show the top 10 employees that have had the most changes in title. 
 <br>9 . Put the answers to your github SQL challenges on github. Check your challenge answers against other students.
 
-# Week 6
-
-<br>1 . Week 3 Answers:
-```
-vim /home/share/rdbms/wk3answers.sql
-mysql -t -u student employees < /home/share/rdbms/wk3answers.sql 
-```
-<br>2 . [Elliot uses Vim](https://drive.google.com/open?id=0B-CFaefA1v4RSC1XQTF5TVIyZHc)
-<br>3 . [Exiting Vim 1](https://drive.google.com/open?id=0B-CFaefA1v4RY1h5VjM2c3BZUGs)
-<br>4 . [Exiting Vim 2](https://drive.google.com/open?id=0B-CFaefA1v4RaHZrdVdlZEpPNUk)
-<br>5 . [Vim Cheat Sheet](https://vim.rtorr.com/)
-<br>6 . [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
-
 ##Exercises
 1 . Read the tutorial on [SQL Sub Queries](http://beginner-sql-tutorial.com/sql-subquery.htm)
 <br>2 . Continue with the exercises from Week 5.
@@ -300,7 +254,7 @@ mysql -t -u student employees < /home/share/rdbms/wk3answers.sql
 <br>4 . Are there any employees that have the same first/last name and DOB?
 <br>5 . Familiarise yourself with [Vim](http://www.vim.org/)
 
--->
+
 
 # Week 6 - 7 - 8
 
