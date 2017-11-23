@@ -200,14 +200,17 @@ SELECT * FROM employees LIMIT 10;
 
 -->
 
-<!-- <br>3 . Group exercise - In your groups create a presentation on a Relational Database Management System of your choice. Your presentation should answer the following questions:
+# Break Week
+
+<br>3 . Group exercise - In your groups create a presentation on a Relational Database Management System of your choice. Your presentation should answer the following questions:
 <ul>
 <li>How popular is the RDBMS?
 <li>What are the unique features of the RDBMS?
 <li>Which companies/organisations/systems use the RDBMS?
 <li>What is the history of the RDBMS?  
+ <li> Examples: MySQL, Microsoft Access, Microsoft SQL Server, Oracle DB, SQLite...
 </ul>
--->
+
 
 # Week 9 - 10
 
