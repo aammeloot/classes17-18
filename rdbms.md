@@ -200,6 +200,20 @@ SELECT * FROM employees LIMIT 10;
 
 -->
 
+# Week 12
+
+## Practical uses of RDBMS - Dynamic Web in PHP
+
+We will do a little introduction to dynamic web development today so you can have an idea of the importance of databases in the modern web. You will study PHP in second year, however today we will cover a small example of how to make a dynamic website using PHP and MySQL.
+
+<br>You will need to
+<br>1. Download a portable web server [from this link](https://drive.google.com/open?id=14hXuvxkn8PtwkLvYkJbqJjx2X_P-nokI)
+<br>2. Unzip the folder somewhere convenient and launch the "uWamp" application.
+<br>3. Ensure the web servers are active in the application window
+<br>4. Visit your [local web page (localhost)](http://localhost/) you should see a basic page.
+
+Your tutor will guide you for the completio of the example.
+
 # Break Week
 
 <br>3 . Group exercise - In your groups create a presentation on a Relational Database Management System of your choice. Your presentation should answer the following questions:
