@@ -200,6 +200,15 @@ SELECT * FROM employees LIMIT 10;
 
 -->
 
+# Week 13
+<br>1 . [SQLi Hall Of Shame](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
+<br>2 . [SQL Injection](http://www.w3schools.com/sql/sql_injection.asp)
+
+# Exercises
+<br>1 . In your groups pick a news article from the [SQLi Hall Of Shame](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/) and create a 10 minute presentation on it. 
+<br>2 . Complete the [SQL Injection](http://www.w3schools.com/sql/sql_injection.asp) exercises.  
+
+
 # Week 12
 
 ## Practical uses of RDBMS - Dynamic Web in PHP
