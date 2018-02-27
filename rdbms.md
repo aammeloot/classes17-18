@@ -29,11 +29,13 @@
 <br>5 . [Bus Timetable](https://drive.google.com/open?id=0B-CFaefA1v4RdG5GcUVaYTNtUTQ)
 <br>6 . [Gelncaldy College ERM Answer](https://drive.google.com/open?id=0B-CFaefA1v4Ra0hnakQ1MmpWY3c)
 
+-->
 ## Exercises
 
 1 . Continue with Exercise 2 from week 15.
 <br>2 . [Gelncaldy College ERM Exercise](https://drive.google.com/open?id=1VROyQv4qqRK9uyzXGJf8cNlNrizrcYhNzH_zXb2V8I4)
 
+<--
 # Week 15
 
 1 . [Crows Feet Notation](https://docs.google.com/document/d/13g8ft7SfZx2bjcboiq_26PzOS3xFaWCfsHUqJkN5XA0/pub)
