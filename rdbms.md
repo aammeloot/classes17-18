@@ -173,7 +173,9 @@ What would be the impact on the output of the queries you have create if null va
 <li>titles.to_date
 </ul>
 
-# Week 10
+-->
+
+# 6 March 2017
 
 <br> 1 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
 <br> 2 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
@@ -200,7 +202,6 @@ SELECT * FROM employees LIMIT 10;
 <br>4 . Add update and delete statements.
 <br>5 . If you manage to complete the tasks above carry on with week 6 and 7 exercises.
 
--->
 
 # Week 13
 <br>1 . [SQLi Hall Of Shame](http://codecurmudgeon.com/wp/sql-injection-hall-of-shame/)
