@@ -177,6 +177,8 @@ What would be the impact on the output of the queries you have create if null va
 
 # 6 March 2017
 
+[Data Dictionary Link](https://docs.google.com/document/d/1Rs_0UxA8Q8yQB8nI16_zdnIsOy_mE_Ll4YY3bDxWlRM/edit?usp=sharing)
+
 <br> 1 . [Creating Tables](http://www.w3schools.com/sql/sql_create_table.asp)
 <br> 2 . [Data Types](http://www.w3schools.com/sql/sql_datatypes.asp)
 <br> 3 . [Inserting Data](http://www.w3schools.com/sql/sql_insert.asp)
